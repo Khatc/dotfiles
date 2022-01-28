@@ -16,4 +16,4 @@ alias diff='colordiff'
 alias ssyss='sudo systemctl start'
 alias ssyse='sudo systemctl enable'
 
-PS1='\[\033[0;34m\]\u\[\033[00m\] \[\033[01;34m\]\W\[\033[00m\] \$ '
+PS1='\[\033[38;5;121m\]\u\[\033[00m\] \[\033[01;34m\]\W\[\033[00m\] \$ '
