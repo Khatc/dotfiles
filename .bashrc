@@ -7,6 +7,7 @@
  
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias pacin='sudo pacman -S'
 alias pacup='sudo pacman -Syu'
 alias pacsearch='sudo pacman -Ss'
 alias pacrm='sudo pacman -Rns'

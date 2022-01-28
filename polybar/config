@@ -478,7 +478,7 @@ date-alt = " %a %b %d, %Y"
 time = %l:%M%p
 time-alt = %l:%M%p
 format-prefix = " "
-format-prefix-foreground = #fefefe
+format-prefix-foreground = #fefefe 
 format-foreground = #fefefe
 format-background = ${colors.darkgreen-brown}
 label = "%date% %time% "
@@ -678,8 +678,8 @@ label = %percentage_used%%
 
 format = Mem <label>
 format-prefix = "  "
-format-prefix-foreground = #fefefe
-format-foreground = #fefefe
+format-prefix-foreground = #fefefe 
+format-foreground = #fefefe 
 format-background = ${colors.wheat}
 
 ################################################################################
