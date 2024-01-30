@@ -1,0 +1,23 @@
+ [window]
+   opacity=0.90
+
+   padding= { x = 10, y = 10 }
+
+  title = "Alacritty"
+
+ [font]
+    normal = { family = "Terminus", style = "Regular" }
+
+    size = 12
+
+ [colors]
+  #  background: '#1d1f21'
+  #  foreground: '#c5c8c6'
+
+ [colors.normal]  
+       red =    '#ff3333' 
+       green =  '#75c933' 
+       yellow = '#bae67e' 
+       blue =   '#73d0ff' 
+       cyan =   '#95e6cb' 
+

@@ -1,0 +1,8 @@
+
+2024/01/28 (03:41:17) | ===> btop++ v.1.2.13
+2024/01/28 (03:41:17) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/01/28 (03:42:15) | WARNING: Failed to join _runner thread on exit!
+
+2024/01/28 (03:47:18) | ===> btop++ v.1.2.13
+2024/01/28 (03:47:18) | WARNING: Could not get temp sensor - maybe you need to load the coretemp module
+2024/01/28 (03:47:52) | WARNING: Failed to join _runner thread on exit!
